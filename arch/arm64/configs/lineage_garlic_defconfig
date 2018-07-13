@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 3.18.31 Kernel Configuration
+# Linux/arm64 3.18.119 Kernel Configuration
 #
 CONFIG_ARM64=y
 CONFIG_64BIT=y
@@ -3714,7 +3714,6 @@ CONFIG_IPA=y
 # CONFIG_IPA3 is not set
 # CONFIG_GSI is not set
 CONFIG_RMNET_IPA=y
-# CONFIG_SSM is not set
 # CONFIG_MSM_MHI is not set
 # CONFIG_PFT is not set
 # CONFIG_I2C_MSM_PROF_DBG is not set
